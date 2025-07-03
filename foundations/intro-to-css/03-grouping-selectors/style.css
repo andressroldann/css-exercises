@@ -1,0 +1,12 @@
+.LeClick{
+    background-color: black;
+    color: white;
+}
+.NoClick{
+    background-color: yellow;
+}
+
+.LeClick, .NoClick{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
